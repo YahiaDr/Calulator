@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calulator</string>
+    <string name="btndiv">/</string>
+    <string name="num_2">Num 2</string>
+    <string name="num_1">Num 1</string>
+    <string name="btnp">%</string>
+    <string name="btnmult">*</string>
+    <string name="btnadd">+</string>
+    <string name="todo">TODO</string>
+    <string name="txtr">TxtR</string>
+    <string name="btnv">^</string>
+    <string name="txtsub">-</string>
+</resources>
